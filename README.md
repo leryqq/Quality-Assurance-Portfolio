@@ -27,6 +27,6 @@
 
 # Примеры работ 📃
 * Чек лист
-* Тест-кейсы
-* Тестовые сценарии
-* Bug report
+* [Тест-кейсы](/TestCases)
+* [Тестовые сценарии](TestScenario)
+* [Bug reports](https://docs.google.com/spreadsheets/d/1o2X31-L3ziTSOF0-itXwZ0x3rGvx71qYGLD_bRQ3saw/edit?usp=sharing)
