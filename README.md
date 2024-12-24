@@ -24,7 +24,12 @@
 2. DevTools
 3. Selenium
 4. Git
-
+### Базы данных
+1. SQL
+2. MS SQL
+3. PostgreSQL
+4. MySQL
+5. MongoDB
 # Примеры работ 📃
 * Чек лист
 * [Тест-кейсы](/TestCases)
