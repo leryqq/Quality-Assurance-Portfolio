@@ -24,6 +24,7 @@
 2. DevTools
 3. Selenium
 4. Git
+5. Figma
 ### Базы данных
 1. SQL
 2. MS SQL
