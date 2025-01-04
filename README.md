@@ -20,6 +20,10 @@
 2. JavaScript
 3. Kotlin
 ### Инструменты:
+1. IDEs:
+   *  MS Visual Studio
+   *  MS Visual Studio Code
+   *  Android Studio
 1. Postman
 2. DevTools
 3. Selenium
