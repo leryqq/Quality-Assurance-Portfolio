@@ -29,6 +29,8 @@
 3. Selenium
 4. Git
 5. Figma
+### API
+1. REST
 ### Базы данных
 1. SQL
 2. MS SQL
