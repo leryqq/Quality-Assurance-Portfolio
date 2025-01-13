@@ -24,6 +24,7 @@
    *  MS Visual Studio
    *  MS Visual Studio Code
    *  Android Studio
+   *  IntelliJ IDEA
 1. Postman
 2. DevTools
 3. Selenium
@@ -41,4 +42,4 @@
 * Чек лист
 * [Тест-кейсы](/TestCases)
 * [Тестовые сценарии](TestScenario)
-* [Bug reports](https://docs.google.com/spreadsheets/d/1o2X31-L3ziTSOF0-itXwZ0x3rGvx71qYGLD_bRQ3saw/edit?usp=sharing)
+* [Bug reports](/BugReports)
