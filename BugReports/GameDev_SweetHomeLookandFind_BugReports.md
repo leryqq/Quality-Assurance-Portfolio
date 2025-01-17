@@ -7,4 +7,4 @@
 
 *  [Сборка тестируемой игры](https://drive.google.com/file/d/17S9iSCi_PjRtXgoFabi_BkNgGXUS4Q_Y/view?usp=sharing)
 
-*  [Bug Report]()
+*  [Bug Report](https://docs.google.com/spreadsheets/d/1JWu8A6BMtSp64d-EIa_yODyvHR0Bu7Od3mDEEXgwEak/edit?usp=sharing)
