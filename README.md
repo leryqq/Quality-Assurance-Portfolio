@@ -6,7 +6,7 @@
 
 # Hard skills ⚙
 ### Платформы:
-1. Мобильное тестирование
+1. Мобильное тестирование (Android/IOS)
 2. Web тестирование
 3. Тестирование ПО
 4. GameDev
@@ -31,6 +31,8 @@
 3. Selenium
 4. Git
 5. Figma
+6. Sentry
+7. Browserstack
 ### API
 1. REST
 ### Базы данных
