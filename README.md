@@ -27,12 +27,14 @@
    *  Android Studio
    *  IntelliJ IDEA
 1. Postman
-2. DevTools
-3. Selenium
-4. Git
-5. Figma
-6. Sentry
-7. Browserstack
+2. Swagger
+3. Charles Proxy
+4. DevTools
+5. Selenium
+6. Git
+7. Figma
+8. Sentry
+9. BrowserStack
 ### API
 1. REST
 ### Базы данных
@@ -46,3 +48,4 @@
 * [Тест-кейсы](/TestCases)
 * [Тестовые сценарии](TestScenario)
 * [Bug reports](/BugReports)
+* [Automation Tests](/Automation)
